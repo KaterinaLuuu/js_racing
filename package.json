@@ -1,0 +1,16 @@
+{
+  "name": "projectjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "electron .npm i -D electron@latest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.1.4",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
